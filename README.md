@@ -1,2 +1,2 @@
-# copenhacks2017
-Feel The Market (CopenHacks 2017)
+# Feel The Market
+This project -which was developed during CopenHacks 2017- is a very simple demonstration of a stock market predictor which uses TensorFlow. The predictor trains a very simple quadratic function by correlating historic data from specialised economic news feeds (which are analysed using to detect the sentiment which it transmits) and historic data from the stock market. From here, with large databases and a well-trained model, interesting prediction results can be produced by monitoring live the economy news feed.
